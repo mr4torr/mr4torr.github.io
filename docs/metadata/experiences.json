@@ -1,0 +1,108 @@
+[
+	{
+		"title": "Senior Software Development Engineer & Tech Lead",
+		"company": "SoftExpert - Software for Excellence",
+		"period": "Set/2018 - Presente",
+		"description": "Atuação como líder e referência técnica no time PHP responsável pelo core da plataforma SaaS. Diretamente responsável por prover abstrações, diretrizes e ferramentas para diversos times de produto, impactando o fluxo de trabalho de mais de 200 desenvolvedores. Foco em modernizar sistemas legados, criar e evoluir novos frameworks internos baseados em Symfony, garantir segurança em nível corporativo (AppSec) e extrair a máxima performance da infraestrutura, resultando em reduções severas de consumo de recursos e otimização de queries.",
+		"skills": [
+			"PHP",
+			"Symfony",
+			"Doctrine ORM",
+			"PostgreSQL",
+			"Oracle",
+			"SQL Server",
+			"Docker",
+			"Composer",
+			"GitLab CI/CD",
+			"Memcached",
+			"APIs REST",
+			"Testes Automatizados",
+			"AppSec"
+		]
+	},
+	{
+		"title": "Desenvolvedor full-stack",
+		"company": "Plinc Turismo",
+		"period": "Out/2017 - Jul/2018",
+		"description": "Desenvolvimento da plataforma Tour Channel. Coordenei uma pequena equipe e era responsável pelo desenvolvimento dos micro-serviços (gestão de sites, API, pagamentos e gestão de serviços).",
+		"skills": [
+			"PHP",
+			"Mysql",
+			"HTML",
+			"JS",
+			"CSS",
+			"SASS",
+			"Laravel",
+			"Jquery",
+			"ReactJS",
+			"Redux",
+			"Redis",
+			"MongoDB",
+			"Nginx",
+			"Webpack",
+			"Gulp",
+			"Let's encrypt",
+			"Docker"
+		]
+	},
+	{
+		"title": "Sócio e Diretor de Tecnologia (CTO)",
+		"company": "Orgânica Digital",
+		"period": "Ago/2014 - Out/2017",
+		"description": "Liderança técnica e gestão de projetos digitais complexos atuando de forma híbrida entre desenvolvimento 'hands-on' e coordenação. Responsável pela arquitetura de inúmeros sistemas, e-commerces, integrações com ERPs e plataformas SaaS para startups, com projetos pré-selecionados em programas de aceleração de relevância regional.",
+		"skills": [
+			"Ruby",
+			"Rails",
+			"PHP",
+			"Cakephp",
+			"Mysql",
+			"Postgres",
+			"JS",
+			"CSS",
+			"SASS",
+			"Jquery",
+			"Redis",
+			"MongoDB",
+			"Nginx",
+			"Gulp",
+			"Middleman",
+			"Laravel",
+			"Docker",
+			"Ansible",
+			"Vagrant"
+		]
+	},
+	{
+		"title": "Sócio e Desenvolvedor full-stack",
+		"company": "Mega Internet",
+		"period": "Jan/2012 - Ago/2014",
+		"description": "Desenvolvimento de sites e aplicações web utilizando arquiteturas PHP e iniciando a adoção do ecossistema Ruby on Rails para novos projetos da empresa.",
+		"skills": [
+			"Ruby",
+			"Rails",
+			"PHP",
+			"Cakephp",
+			"Mysql",
+			"JS",
+			"CSS",
+			"Underscore",
+			"Backbone",
+			"Jquery",
+			"Nginx"
+		]
+	},
+	{
+		"title": "Desenvolvedor full-stack",
+		"company": "Portal Gramado",
+		"period": "Mar/2009 - Jan/2012",
+		"description": "Responsável pelo desenvolvimento backend/frontend e evolução contínua dos portais de conteúdo e sistemas do Grupo Portal Gramado.",
+		"skills": ["PHP", "Cakephp", "Mysql", "JS", "CSS", "Jquery", "Nginx"]
+	},
+	{
+		"title": "Desenvolvedor Web",
+		"company": "Academia da Web",
+		"period": "Jan/2008 - Mar/2009",
+		"description": "Responsável pelo desenvolvimento e codificação de sites institucionais e portais web iniciais.",
+		"skills": ["PHP", "CSS", "HTML", "JS", "Cakephp"]
+	}
+]

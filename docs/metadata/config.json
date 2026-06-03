@@ -1,0 +1,74 @@
+{
+	"name": "Mailon Torres",
+	"nickname": "@mr4torr",
+	"preview": "Arquiteto de Software e Líder Técnico focado em sistemas escaláveis, SaaS multi-tenant e tooling. Atuo como referência técnica provendo abstrações, diretrizes de arquitetura e ferramentas core que otimizam a produtividade de centenas de desenvolvedores. Proficiente em PHP (Symfony/Laravel/Hyperf), mas com bom conhecimento em Go, Ruby, Nodejs e DevOps.",
+	"meta": {
+		"title": "Mailon Rafael Andrade Torres",
+		"description": "Líder Técnico & Arquiteto de Software | Specialist PHP Developer",
+		"image": "mailon-torres.jpg"
+	},
+	"address": "Joinville, SC",
+	"contact": {
+		"website": "mr4torr.github.io",
+		"phone": "(54) 9 9984-9902",
+		"email": "mailontorres@gmail.com",
+		"github": "www.github.com/mr4torr",
+		"linkedin": "www.linkedin.com/in/mailontorres"
+	},
+	"social": {
+		"github": "https://github.com/mr4torr",
+		"linkedin": "https://www.linkedin.com/in/mailontorres"
+	},
+	"education": "Graduado em Análise e Desenvolvimento de Sistemas pela Unipar (Universidade Paranaense).",
+	"courses": "Especializações e cursos complementares em Engenharia de Software, Arquitetura de Sistemas, Segurança de Aplicações (AppSec), Metodologias Ágeis (Scrum/Kanban), UX Design, além de aprofundamento constante em ecossistemas modernos de alta performance (Rust, Bun, TypeScript e Go).",
+	"skills": {
+		"strong": [
+			"PHP",
+			"Symfony",
+			"Doctrine ORM",
+			"Software Architecture",
+			"Clean Architecture",
+			"Docker",
+			"Linux",
+			"PostgreSQL",
+			"GitLab CI/CD",
+			"Nginx",
+			"APIs REST",
+			"Memcached",
+			"Redis"
+		],
+		"middle": [
+			"TypeScript",
+			"Laravel",
+			"Hyperf",
+			"React 19",
+			"Bun",
+			"ElysiaJS",
+			"Drizzle ORM",
+			"Ruby",
+			"Ruby on Rails",
+			"Node.js",
+			"Express",
+			"Oracle",
+			"SQL Server",
+			"MySQL",
+			"MongoDB",
+			"Podman",
+			"Containerd",
+			"AppSec",
+			"Scrum",
+			"Kanban",
+			"CakePHP",
+			"Go Lang"
+		],
+		"small": [
+			"Rust",
+			"Jquery",
+			"Java",
+			"Gulp",
+			"UX",
+			"SEO",
+			"ASDF"
+		]
+	}
+}
