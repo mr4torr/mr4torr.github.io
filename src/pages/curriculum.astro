@@ -1,12 +1,12 @@
 ---
-import CurriculoLayout from "../layouts/CurriculoLayout.astro";
+import CurriculumLayout from "../layouts/CurriculumLayout.astro";
 import config from "../../docs/metadata/config.json";
 import experiences from "../../docs/metadata/experiences.json";
 ---
 
-<CurriculoLayout>
+<CurriculumLayout>
   <main
-    class="max-w-[210mm] mx-auto bg-white py-[48px] px-[52px] shadow-[0_1px_3px_rgba(0,0,0,0.08),0_8px_30px_rgba(0,0,0,0.12)] rounded-[2px] print:shadow-none print:m-0 print:p-0 print:max-w-full print:rounded-none"
+    class="max-w-[210mm] mx-auto bg-white py-10 px-12 border border-neutral-200 print:border-none print:m-0 print:p-0 print:max-w-full print:rounded-none"
     id="cv-page"
   >
     <!-- ===== HEADER / DADOS PESSOAIS ===== -->
@@ -171,7 +171,7 @@ import experiences from "../../docs/metadata/experiences.json";
       >
         Resumo Profissional
       </h2>
-      <p class="text-[12.5px] leading-relaxed text-[#333] m-0 text-justify">
+      <p class="text-[12.5px] leading-relaxed text-neutral-700">
         {config.preview}
       </p>
     </section>
@@ -223,9 +223,9 @@ import experiences from "../../docs/metadata/experiences.json";
       >
         Especializações e Cursos
       </h2>
-      <p class="text-[12.5px] leading-relaxed text-[#333] m-0 text-justify">
+      <p class="text-[12.5px] leading-relaxed text-neutral-700">
         {config.courses}
       </p>
     </section>
   </main>
-</CurriculoLayout>
+</CurriculumLayout>
